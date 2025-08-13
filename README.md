@@ -64,6 +64,15 @@
 
 ---
 
+
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathampatil17/prathampatil17/output/snake.svg" alt="A snake animation of my GitHub contributions" />
+</p>
+
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
