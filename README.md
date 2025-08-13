@@ -88,8 +88,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil17&bg_color=1a1b27&color=70a5fd&line=38bdae&point=8080ff&area=true&hide_border=true" alt="Pratham's Contribution Graph" />
 </p>
 
-### 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prathampatil17/prathampatil17/output/snake.svg" alt="A snake animation of my GitHub contributions" />
-</p>
