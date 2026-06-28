@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **CodeNarrator: AI-Powered Codebase Explainer**.
 - 🌱 I’m currently learning **AI & ML, Full-Stack Web Development, Data Science, and LangChain**.
 - 👨‍💻 All of my projects are available at **[prathampatil.me](https://prathampatil.me)**
-- 📄 Know about my experiences: **[View My Resume](https://drive.google.com/file/d/1PZE9TN0OUecXU9GbUnrpFfKpBDaV3-ui/view?usp=drive_link)**
+- 📄 Know about my experiences: **[View My Resume](https://docs.google.com/document/d/1P43A4WMAyCJhir9KrIGUu6BKWf9PeATGU8do3lP9ChM/edit?usp=sharing)**
 - 📫 You can reach me at **prathamlpatil04@gmail.com**.
 
 > ⚡ **Fun Fact:** Currently mapping the shortest path from “Hello World” to production.
